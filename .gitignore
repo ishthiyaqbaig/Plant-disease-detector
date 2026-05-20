@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+ENV/
+
+# History and caches
+history.json
+.env
+
+# Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+dist/
+
+# Build artifacts
+*.log
